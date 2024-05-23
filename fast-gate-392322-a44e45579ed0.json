@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "fast-gate-392322",
+  "private_key_id": "a44e45579ed0f5cfe75e9fceb107265015ea8271",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCvq/hO1D21N7W4\nADNP9VGVYXCiEX+SDoAD+oxSZsXzqJugI/5Kn3gq6FnN9046jL75r10AIpqzwMfr\nf4eCWeDEwLiGRIEA6r9gIrbHClrQeEx8QSR6CtRwz+sr/h5mozQemqzc3MiL3mAc\nr/rHWV0tcfxZsCGoP5/YE0/b9VOQhUUVUii3KcUvrFaou7Ch3qwe+Rpb9fol/4JK\nxeurhdhAMOp3q3zXUMZvTfn6j2kqrRPa8LnCEirDTFH+tAmc/CPBUC8Sf9mfjWKT\nhmuYsZ6tnLOaEeEbySs6v3vvYndyqCrD6HWAj9m+37pb67pkGdrhXlJu0jHGxNyb\nOxShK12jAgMBAAECggEAEGAKZGa6XdMUmFNEdTab5T3Q/vp8lsPNQRGw1NmJqD3W\nS+YvBQu6at1/yYg8/Y4zGxkypRmUrB7TQ+t+WTNBlXWVfcaS89/t+OsjeIhJkNc1\n4fs8iDfMN7vZ4x7r/ItIB3ZJmMjn1Mnk0afBy6VT3zGZ4U5exM0xfDXIoutKX9U0\njOA3S4MOwZLjOPJ4d3nsfJ6hH5k6VuU2sZ+LFFaUDob5fOI4cHqLuJ4w7hoQUn0I\nGFx7vDjc9aGI35Mne4tGxtQhwGuhXXkuxM81ImOihXc2PNEBgQgQJfadJuPC7tJ8\nlgzvEhoV5pZKttq1JPkMS6QRlT7K+H3k9LFMbMV4SQKBgQDxoBbApMnM6C9teyFO\nUXMO0cWjmYyrKbNHmRABtTpUAtjPPzk9Lt0ntx1u9qF6zyuaESNaZtSrdKYCSLQM\ncveCGWLPZYyva9gvyKelgMbpaA2CF5oWhiTMWaO8MGBgJrqzVdZ/7XZExq4qBlJx\n2ENFXZncYxEO1+RZM424ETawTwKBgQC6H2tsRhJEGf5dePY5Kk/f6IoX1Ywib1jG\ntPgjCs0SS2GTiWtyStXr8bq5WbXClcgFG3Oba06LkJaIp+Buh+Vwv3td5HVftff8\nRh1sueQMg7dZ5744iu60B6vbVzZQAxQWD61sVT20SVs0g3es4ZGN/Bq8I/XCtNf8\n3TYNUPn0bQKBgFKhOKawtAJK9M0v6nfqCrrqqfgErsJqBFFb2sl6vHO2dYaKTHzL\n5f2K9ZnY5eglqPeLHNfxipEH1y24xznqpxHqtIvQYogrDUdqC0rh+yQe3V+7yooh\nXbw0e3YD5TF8jSR/GletUWC7wRvGBbPBDWBPXiqsBk1ZL1IB+1kTKeypAoGAXRXj\nuwYckpTRg9xAgPypcBm0HxF9gadgphjSVWxMfg7XYVuEMmg9L0D5m0PDxOr2W5+M\nJTn40ZJhxzz24TD0Tnxl7eKZ1WGEAlbq1nruFFg39i4SE+NgWQfRKuUmU8QGYrY6\njQjg0G8zv0LVMtCp5HImyNvPSS77KwtTwjsyl80CgYA+vjdnV5EZ0hL8l4rwRtuz\nNItUM6726G+Ud/1ZER/AdL67/yqNapK8VNIbJTe43kzW8HKx2yjhA0Frp1Hg2cg5\nPUswQUtLhLF5+CSgZcwHo8NKYm9gyMGua07ub/4ummT+PW6wluyCn9njosru6Y9a\nIxzgI4KJmEBfvXLQ+B/f8A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "almacenamiento@fast-gate-392322.iam.gserviceaccount.com",
+  "client_id": "107783842980336306664",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/almacenamiento%40fast-gate-392322.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
