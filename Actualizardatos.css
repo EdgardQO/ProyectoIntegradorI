@@ -1,0 +1,183 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+header {
+    background-color: #ffffff;
+    padding: 10px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.logo-title {
+    display: flex;
+    align-items: center;
+}
+
+header img {
+    height: 60px;
+    margin-right: 20px;
+}
+
+header h1 {
+    font-size: 1.5em;
+    margin: 0;
+}
+
+.header-icons {
+    display: flex;
+    gap: 10px;
+}
+
+.header-icon {
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+
+.header-icon:hover {
+    transform: scale(1.1);
+}
+
+nav {
+    background-color: #4757e7;
+    width: 15%;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav ul li {
+    margin-bottom: 0;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    display: block;
+    padding: 10px;
+    background-color: transparent;
+    border: 1px solid #000000;
+    border-radius: 0;
+    transition: background-color 0.3s ease;
+}
+
+nav ul li a:hover {
+    background-color: #1100ff;
+}
+
+section {
+    flex-grow: 1;
+    display: flex;
+}
+
+.main-content {
+    border-top: 1px solid #000000;
+    background-color: white;
+    width: 85%;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.user-form {
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.user-photo {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.user-photo img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.user-details {
+    display: flex;
+    justify-content: space-between;
+}
+
+.user-details .left-column,
+.user-details .right-column {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.user-details .field {
+    margin-bottom: 10px;
+}
+
+.user-details .field strong {
+    display: block;
+}
+
+.update-button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+
+.update-button:hover {
+    background-color: #45a049;
+}
+
+.news-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.news {
+    background-color: white;
+    padding: 20px;
+    width: 48%;
+    border: 1px solid black;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.news h2 {
+    margin-top: 0;
+}
+
+footer {
+    border-top: 1px solid black;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    padding: 20px;
+    text-align: center;
+}
+
+.menu a:hover,
+.menu a.selected {
+    background: rgb(175, 209, 240);
+    color: white;
+}
