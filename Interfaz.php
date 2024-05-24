@@ -56,8 +56,8 @@ if (!$imageUrl) {
             <h1>¡Gracias por usar el nuevo sistema de prácticas de la FIEI!</h1>
         </div>
         <div class="header-icons">
-            <img src="../Img/configuracion (2).png" alt="Configuración" class="header-icon">
-            <img src="../Img/notificacion (1).png" alt="Notificaciones" class="header-icon">
+            <img src="./iconos/configuracion (2).png" alt="Configuración" class="header-icon">
+            <img src="./iconos/notificacion (1).png" alt="Notificaciones" class="header-icon">
         </div>
     </header>
 
