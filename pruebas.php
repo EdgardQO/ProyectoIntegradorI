@@ -51,7 +51,7 @@
                 <label for="contrasena">Contraseña</label>
                 <div class="password-container">
                     <input type="password" id="contrasena" name="contrasena" placeholder="Contraseña">
-                    <span id="togglePassword" class="toggle-password">👁️</span>
+                    <span id="togglePassword" class="toggle-password">🔒</span>
                 </div>
             </div>
             <button type="submit" id="loginButton">Iniciar sesión</button>
