@@ -36,7 +36,7 @@ foreach ($extensiones_permitidas as $extension) {
 
 if (!$imageUrl) {
     //Si no se encuentra la imagen entonces se usa la default
-    $imageUrl = 'img/default.jpg'; //Cambia default.jpg por la imagen que quieras usar por defecto
+    $imageUrl = 'img/default.jpg'; //Poenmos una imagen por defecto (no es necesario)
 }
 ?>
 
