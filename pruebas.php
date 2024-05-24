@@ -62,7 +62,7 @@
         <?php endif; ?>
     </div>
     <div id="imagen">
-        <img src="./Img/FIEI.jpg" alt="Imagen FIEI">
+        <img src="./logo/FIEI.jpg" alt="Imagen FIEI">
     </div>
     <script src="inicio.js"></script>
 </body>
