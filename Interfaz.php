@@ -46,13 +46,13 @@ if (!$imageUrl) {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Interfaz</title>
-    <link rel="icon" href="./Img/logo_fiei_2021.png">
+    <link rel="icon" href="./logo/logo_fiei_2021.png">
     <link rel="stylesheet" href="interfaz.css">
 </head>
 <body>
     <header>
         <div class="logo-title">
-            <img src="../Img/logo_fiei_2021.png" alt="Logo">
+            <img src="./logo/logo_fiei_2021.png" alt="Logo">
             <h1>¡Gracias por usar el nuevo sistema de prácticas de la FIEI!</h1>
         </div>
         <div class="header-icons">
