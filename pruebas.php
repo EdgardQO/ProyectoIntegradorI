@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sistema de prácticas FIEI UNFV</title>
+    <link rel="icon" href="./logo/logo_fiei_2021.png">
     <link rel="stylesheet" href="inicio.css">
 </head>
 <body>
